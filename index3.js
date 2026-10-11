@@ -1,0 +1,9 @@
+let i = 1;
+while (i <= 10) {
+    if (i > 5) {
+        console.log(i + "Greater");
+    } else {
+        console.log(i + "Smaller");
+    }
+    i++;
+}
